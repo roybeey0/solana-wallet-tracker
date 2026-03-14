@@ -1,9 +1,5 @@
-# ── Rust build artifacts ─────────────────────────────────
-/target/
-
 # ── Generated output ─────────────────────────────────────
 /output/*.csv
-/charts/*.png
 
 # ── Python cache ─────────────────────────────────────────
 __pycache__/
