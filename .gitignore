@@ -1,0 +1,14 @@
+# ── Rust build artifacts ─────────────────────────────────
+/target/
+
+# ── Generated output ─────────────────────────────────────
+/output/*.csv
+/charts/*.png
+
+# ── Python cache ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+
+# ── OS ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
